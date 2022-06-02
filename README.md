@@ -5,7 +5,7 @@
 - 📫 How to reach me jhagaurav5925@gmail.com
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GAURAV5925&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GAURAV5925&theme=dark)
  
 <!---
 GAURAV5925/GAURAV5925 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
