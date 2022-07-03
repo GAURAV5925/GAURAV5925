@@ -10,7 +10,11 @@
 
 <br/>
 
+![Gaurav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GAURAV5925&theme=dark)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GAURAV5925&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV5925&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
