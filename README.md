@@ -10,15 +10,20 @@
 
 <br/>
 
-![Gaurav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GAURAV5925&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GAURAV5925&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV5925&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <br/>
 
- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=GAURAV5925&show_icons=true&theme=apprentice&count_private=true&hide_border=true" width = 400>
+  <br/>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=GAURAV5925&theme=react&hide_border=true" width = 400>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAURAV5925&hide=html,cmake,css,scss,powershell,assembly&theme=apprentice&langs_count=10&layout=compact&hide_border=true" width = 400>
+
+ 
+</p>
+
+ <img src="https://activity-graph.herokuapp.com/graph?username=GAURAV5925&theme=monokai&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+
+
  
  <br/>
 
