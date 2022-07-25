@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in Data Science, Cloud Computing & Web development.
 - 🌱 I’m currently in 3rd Year of Electronics & Telecommunication Engineering.
-- 💞️ I’m looking to learn about Data Science.
+- 💞️ I’m looking forward to become a Software Developer.
 
 <br/>
 
