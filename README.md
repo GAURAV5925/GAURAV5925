@@ -4,8 +4,8 @@
 <h2><b> Hi, I'm Gaurav Jha! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></b></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 👀 I’m interested in Python, C++, C, JavaScript, Cloud Computing, Web development.
-- 🌱 I’m currently in 2nd Year of Electronics & Telecommunication Engineering.
+- 👀 I’m interested in Data Science, Cloud Computing & Web development.
+- 🌱 I’m currently in 3rd Year of Electronics & Telecommunication Engineering.
 - 💞️ I’m looking to learn about Data Science.
 
 <br/>
