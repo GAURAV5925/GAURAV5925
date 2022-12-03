@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=GAURAV5925.GAURAV5925&color=00cf00)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GAURAV5925&label=Profile%20views&color=0e75b6&style=flat" alt="GAURAV5925" /> </p>
 <br/>
 
 <h2><b> Hi, I'm Gaurav Jha! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></b></h2>
