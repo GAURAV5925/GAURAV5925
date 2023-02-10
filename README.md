@@ -12,6 +12,8 @@
 
 <br/>
 
+## 📈 Stats
+
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=GAURAV5925&show_icons=true&theme=apprentice&count_private=true&hide_border=true" width = 400>
   <br/>
@@ -21,15 +23,33 @@
  
 </p>
 
+
+
 [![Gaurav's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GAURAV5925&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
  
  
+ ## ⚡ Technologies
+
+### Language :
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
 <p align="left">
+
+ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <br/>
+
+## ⚡ Socials
  
 <a href="https://twitter.com/jhagaurav5925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devkakeri06" height="30" width="40" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/gauravjha5925/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devkakeri06" height="30" width="40" /></a> &nbsp;
