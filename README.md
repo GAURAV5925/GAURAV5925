@@ -15,9 +15,9 @@
 ## 📈 Stats
 
 <p align = "left">
-  <img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=GAURAV5925&show_icons=true&theme=dark&count_private=true&hide_border=true" width = 400>
-  <br/>
    <img src = "https://github-readme-stats-sigma-five.vercel.app/api?username=GAURAV5925&show_icons=true&theme=dark&count_private=true&hide_border=true" width = 400>
+  <br/>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=GAURAV5925&theme=react&hide_border=true" width = 400>
   <img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GAURAV5925&hide=html,cmake,css,scss,powershell,assembly&theme=dark&langs_count=10&layout=compact&hide_border=true" width = 400>
 
  
