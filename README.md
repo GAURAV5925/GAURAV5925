@@ -5,8 +5,8 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 👀 I’m interested in Data Science, Cloud Computing & Web development.
-- 🌱 I’m currently in 3rd Year of Electronics & Telecommunication Engineering.
-- 💞️ I’m looking forward to become a Software Developer.
+- 🎓 I've completed my Bachelor's degree in Electronics & Telecommunication Engineering.
+- 💞️ I’m working as a Software Developer.
 
 <br/>
 
